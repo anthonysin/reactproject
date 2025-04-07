@@ -1,0 +1,8 @@
+.flip-on-hover {
+    transition: transform 0.5s ease;
+  }
+  
+.flip-on-hover:hover {
+    transform: rotate(180deg);
+}
+  
